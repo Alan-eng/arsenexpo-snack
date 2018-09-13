@@ -1,0 +1,14 @@
+{
+  "name": "github.com/alan-eng/arsenexpo",
+  "version": "0.0.0",
+  "description": "Alan-eng/arsenexpo @ Sep 2, 2018",
+  "author": null,
+  "private": true,
+  "main": "node_modules/expo/AppEntry.js",
+  "dependencies": {
+    "expo": "^29.0.0",
+    "react": "16.3.1",
+    "react-native": "https://github.com/expo/react-native/archive/sdk-29.0.0.tar.gz",
+    "native-base": "^2.8.0"
+  }
+}
